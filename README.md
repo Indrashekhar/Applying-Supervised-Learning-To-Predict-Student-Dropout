@@ -28,4 +28,12 @@ To apply advanced machine learning techniques to create a predictive model for s
 
 ![image](https://github.com/user-attachments/assets/ba6e2c68-a986-4ccc-aa21-8ede617d69a7)
 
+* learner_df has 2 features with nulls
+* learner_extended_df has 4 features with nulls
+
+![image](https://github.com/user-attachments/assets/5b37b35a-d8f8-4d75-ba73-8f5fcd3b6c22)
+
+![image](https://github.com/user-attachments/assets/c67be953-c65a-4483-aae6-fa5ba94ebb15)
+
+![image](https://github.com/user-attachments/assets/d8134a2b-485c-4cfb-8e8b-8abacf91f0a7)
 
