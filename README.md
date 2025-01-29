@@ -37,3 +37,16 @@ To apply advanced machine learning techniques to create a predictive model for s
 
 ![image](https://github.com/user-attachments/assets/d8134a2b-485c-4cfb-8e8b-8abacf91f0a7)
 
+### Plot histogram
+![image](https://github.com/user-attachments/assets/a56eb0b8-0bb5-4548-a91b-063fca1a766c)
+
+### Box plots
+![image](https://github.com/user-attachments/assets/e5040bfb-91ef-4d4f-92dc-824810ca54af)
+![image](https://github.com/user-attachments/assets/37c67e68-840f-4e89-a6eb-5d12bb79996c)
+![image](https://github.com/user-attachments/assets/985d6c6e-7593-4a89-bfd8-71fd56502374)
+![image](https://github.com/user-attachments/assets/199895ba-ccb2-43fe-a1fc-bb91706f61ad)
+![image](https://github.com/user-attachments/assets/c087aa51-ff66-43ec-a39f-d82da43ad7df)
+
+## XGBoost
+![image](https://github.com/user-attachments/assets/4bd214ef-7164-4ae3-b092-d7ddcb476434)
+![image](https://github.com/user-attachments/assets/9e9a014e-3868-4b50-a34c-4d6b7926166d)
