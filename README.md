@@ -58,6 +58,7 @@ After dropping colinear features
 
 * XG Boost Basic Model Accuracy: 0.968942731277533
 * XG Boost tuned Model Accuracy: 0.9711453744493392
+
 Without dropping multi-colinear features
 
 * XG Boost Basic Model Accuracy: 0.9662995594713656
@@ -72,6 +73,7 @@ GridSearchCV gave the following as the best parameters:
 * 'learning_rate': 0.3
 * 'max_depth': None
 * 'n_estimators': 15
+
 Using the hyperparameter values tuned by GridSearchCV, the XGBoost model gave 97.07% accuracy, improving both the precision and recall for both positive and negative class.
 
 ## XGBoost with additional features: AttendancePercentage and ContactHours
@@ -98,6 +100,7 @@ GridSearchCV gave the following as the best parameters:
 * 'learning_rate': 0.6
 * 'max_depth': 20
 * 'n_estimators': 25
+
 Using the hyperparameter values tuned by GridSearchCV, the XGBoost model gave 97.84% accuracy, resulting in slight degradation in the precision and recall for the negative class.
 
 
