@@ -50,3 +50,38 @@ To apply advanced machine learning techniques to create a predictive model for s
 ## XGBoost
 ![image](https://github.com/user-attachments/assets/4bd214ef-7164-4ae3-b092-d7ddcb476434)
 ![image](https://github.com/user-attachments/assets/9e9a014e-3868-4b50-a34c-4d6b7926166d)
+
+![image](https://github.com/user-attachments/assets/0e46ceff-6d9d-4aac-86bb-c2751775525f)
+![image](https://github.com/user-attachments/assets/375948d7-87ff-477f-a292-9fa6db2c2a9a)
+
+After dropping colinear features
+
+XG Boost Basic Model Accuracy: 0.968942731277533
+XG Boost tuned Model Accuracy: 0.9711453744493392
+Without dropping multi-colinear features
+
+XG Boost Basic Model Accuracy: 0.9662995594713656
+XG Boost tuned Model Accuracy: 0.968942731277533
+
+The XGBoost basic model predicted with 96.65% accuracy.
+
+Although the accuracy is higher that the positive class percentage. The False Positive is higher than False Negative. Ideally we would like False Positive to be as low as possible.
+
+GridSearchCV gave the following as the best parameters:
+
+'learning_rate': 0.3
+'max_depth': None
+'n_estimators': 15
+Using the hyperparameter values tuned by GridSearchCV, the XGBoost model gave 97.07% accuracy, improving both the precision and recall for both positive and negative class.
+
+## XGBoost with additional features: AttendancePercentage and ContactHours
+![image](https://github.com/user-attachments/assets/a30b6850-b56a-43c5-8208-182a06a528d6)
+![image](https://github.com/user-attachments/assets/a1ce25e0-89e5-4777-b080-6f6fc70450d3)
+
+![image](https://github.com/user-attachments/assets/1e44355d-e72c-4700-a9cc-407658875a81)
+![image](https://github.com/user-attachments/assets/be1785b3-dd99-4aa4-b0ca-d9134cf1d7b4)
+
+## plot feature importance
+![image](https://github.com/user-attachments/assets/d46b25e2-4032-4064-8c6f-6230f07a2ded)
+
+
