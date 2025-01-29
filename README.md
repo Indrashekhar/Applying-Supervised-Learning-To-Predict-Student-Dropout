@@ -81,7 +81,7 @@ Using the hyperparameter values tuned by GridSearchCV, the XGBoost model gave 97
 ![image](https://github.com/user-attachments/assets/1e44355d-e72c-4700-a9cc-407658875a81)
 ![image](https://github.com/user-attachments/assets/be1785b3-dd99-4aa4-b0ca-d9134cf1d7b4)
 
-## Plot feature importance
+## Feature Importance
 ![image](https://github.com/user-attachments/assets/d46b25e2-4032-4064-8c6f-6230f07a2ded)
 
 XG Boost with additional features
